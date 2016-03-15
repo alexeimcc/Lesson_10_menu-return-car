@@ -51,6 +51,6 @@ public class Main {
 
         //String colour = input.next();
 
-        
+
     }
 }
